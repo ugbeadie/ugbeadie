@@ -6,6 +6,7 @@ Frontend Web Developer
 
 I enjoy building pixel-perfect and responsive websites and web apps that provide real value to the end user.
 
+*   👀  I’m interested in Remote Frontend/ React development roles.
 *   ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com).
 *   🧠  I'm learning DSA.
 *   🤝  I'm open to collaborating on Frontend Projects.<p align="left">
