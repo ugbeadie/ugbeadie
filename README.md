@@ -9,7 +9,7 @@ focused on building exceptional frontend experiences that provide real value to 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [ugbefolio](http://ugbefolio.netlify.app)
 * ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Next and Typescript 
 * 🤝  I'm open to collaborating on Frontend Projects
 
 ### Skills
