@@ -4,9 +4,8 @@ Hi 👋 My name is Ugbe Adie
 Frontend Web Developer
 ----------------------
 
-focused on building exceptional frontend experiences that provide real value to the user.
+🚀 Web Developer | Building fast, accessible, and user-friendly web apps with a love for clean UI.
 
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [ugbefolio](http://ugbefolio.netlify.app)
 * ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)
 * 🧠  I'm learning Next and Typescript 
