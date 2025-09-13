@@ -8,7 +8,7 @@ Frontend Web Developer
 
 * 🖥️  See my portfolio at [ugbefolio](http://ugbefolio.netlify.app)
 * ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)
-* 🧠  I'm learning Next and Typescript 
+* 🧠  I'm learning Mobile Development using React Native and Flutter 
 * 🤝  I'm open to collaborating on Frontend Projects
 
 ### Skills
