@@ -4,7 +4,7 @@ Hi 👋 My name is Ugbe Adie
 Frontend Web Developer
 ----------------------
 
-🚀 Web Developer | Building fast, accessible, and user-friendly web apps with a love for clean UI.
+🚀 Web & Mobile Developer | Building fast, accessible, and user-friendly web and mobile apps with a love for clean UI.
 
 * 🖥️  See my portfolio at [ugbefolio](http://ugbefolio.netlify.app)
 * ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)
