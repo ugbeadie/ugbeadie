@@ -1,7 +1,7 @@
 Hi 👋 My name is Ugbe Adie
 ==========================
 
-Frontend Web Developer
+Frontend Developer
 ----------------------
 
 🚀 Web & Mobile Developer | Building fast, accessible, and user-friendly web and mobile apps with a love for clean UI.
