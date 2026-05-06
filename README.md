@@ -9,7 +9,7 @@ Frontend Developer
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [ugbefolio](http://ugbefolio.netlify.app/)
 * ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)
-* 🧠  I'm currently learning Mobile Development using React Native and Flutter
+* 🧠  I'm currently learning Flutter and Python
 * 👥  I'm looking to collaborate on Web and Mobile Projects
 
 <p align="left">
