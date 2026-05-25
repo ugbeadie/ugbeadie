@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-👩🏽‍💻 Web & Mobile Developer | Building fast, accessible, and user-friendly web and mobile apps with a love for clean UI.
+👩🏽‍💻 Software Developer | Building fast, accessible, and user-friendly web and mobile apps with a love for clean UI.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [ugbeadie.com](http://ugbeadie.com/)
