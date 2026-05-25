@@ -7,7 +7,7 @@ Frontend Developer
 👩🏽‍💻 Web & Mobile Developer | Building fast, accessible, and user-friendly web and mobile apps with a love for clean UI.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [ugbefolio](http://ugbefolio.netlify.app/)
+* 🖥️  See my portfolio at [ugbeadie.com](http://ugbeadie.com/)
 * ✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)
 * 🧠  I'm currently learning Flutter and Python
 * 👥  I'm looking to collaborate on Web and Mobile Projects
