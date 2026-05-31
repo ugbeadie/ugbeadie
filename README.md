@@ -18,9 +18,6 @@ Building fast, accessible, and user-friendly web and mobile apps with a love for
 * **🎵 Music Lover:** Huge fan of music in general—I almost always have something playing, and it's an absolute necessity for my coding sessions.
 * **🇫🇷 Learning French:** I am seriously dedicated to mastering French and actively pushing toward fluency (*petit à petit !*).
 
-## 🎵 What I'm Listening To:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314iktesdchgmenfmfbvud5kw5dm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugbe-adie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atersam1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ugbeadie3@gmail.com) 
 
