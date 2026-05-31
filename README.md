@@ -1,13 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ugbe Adie
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Ugbe Adie
 ==================================================================================================================================
 **`Software Developer`**
 
 Building fast, accessible, and user-friendly web and mobile apps with a love for clean UI.
 
-# 💫 About Me:
+## 🚀 About Me
 
-🌍  I'm based in Nigeria<br>🖥️  See my portfolio at [ugbeadie.com](http://ugbeadie.com/)<br>✉️  You can contact me at [ugbeadie3@gmail.com](mailto:ugbeadie3@gmail.com)<br>🧠  I'm currently learning Python (for backend, data and AI) and Flutter<br>👥  I'm looking to collaborate on Web and Mobile Projects
+* **🖥️ Portfolio:** Check out my work at [ugbeadie.com](https://ugbeadie.com)
+* **🧠 Currently Learning:** Python (for backend, data, and AI workflows) and Flutter for cross-platform mobile apps.
+* **👥 Collaboration:** Always down to team up on interesting Web and Mobile projects.
 
+## ⚡ Fun Facts
+
+* **🏋️‍♂️ Gym & Runs:** I hit the gym daily for strength and core training, with occasional outdoor runs mixed in.
+* **📰 Stay Sharp:** I read up on tech trends and developer breakthroughs daily on daily.dev and related platforms.
+* **🍿 Anime Fan:** Big fan of watching anime when it's time to fully unwind.
+* **🎵 Music Lover:** Huge fan of music in general—I almost always have something playing, and it's an absolute necessity for my coding sessions.
+* **🇫🇷 Learning French:** I am seriously dedicated to mastering French and actively pushing toward fluency (*petit à petit !*).
+
+## 🎵 What I'm Listening To:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314iktesdchgmenfmfbvud5kw5dm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugbe-adie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atersam1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ugbeadie3@gmail.com) 
