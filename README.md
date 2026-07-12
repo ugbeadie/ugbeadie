@@ -10,7 +10,7 @@ Building fast, accessible, and user-friendly web and mobile apps with a love for
 ## 🚀 About Me
 
 * **🖥️ Portfolio:** Check out my work at [ugbeadie.com](https://ugbeadie.com)
-* **🧠 Currently Learning:** Python (for backend, data, and AI workflows) and Flutter for cross-platform mobile apps.
+* **🧠 Currently Learning:** Backend with Nodejs and Expressjs.
 * **👥 Collaboration:** Always down to team up on interesting Web and Mobile projects.
 
 ## ⚡ Fun Facts
