@@ -22,7 +22,7 @@ Building fast, accessible, and user-friendly digital products with a love for cl
 * **🇫🇷 Learning French:** I am seriously dedicated to mastering French and actively pushing toward fluency (*petit à petit !*).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugbe-adie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atersam1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@ugbeadie](https://medium.com/@ugbeadie3)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ugbeadie3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugbe-adie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atersam1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ugbeadie3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ugbeadie3@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ugbeadie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
